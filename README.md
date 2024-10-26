@@ -33,8 +33,8 @@ razor http://username:password@host:port
 ## How To Make a Computer as public proxy server
 - Step 1: Make sure updated the firewall and all system updates
 
-- Step 2: Create port forwarding - nginx server
-Example port forwarding : https://www.youtube.com/watch?v=2tIUts0fyFk
-Example nginx server: https://docs.nginx.com/nginx/admin-guide/web-server/reverse-proxy/
+- Step 2: Create port forwarding - nginx server<br/>
+Example port forwarding : https://www.youtube.com/watch?v=2tIUts0fyFk<br/>
+Example nginx server: https://docs.nginx.com/nginx/admin-guide/web-server/reverse-proxy/<br/>
 
 - Setp 3: Run razor-proxy with the same proxy in the `port forwarding` or `nginx server`
