@@ -15,7 +15,9 @@
 - Step 1: You need to install python (any version)
 
 - Step 2: Install razor-proxy
-`pip install razor-proxy`
+```bash
+pip install razor-proxy
+```
 
 - Step 3: Run razor-proxy
 without authorization (recommended to use authorization)
