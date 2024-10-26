@@ -1,6 +1,6 @@
 # Razor Proxy [![Supported Versions](https://img.shields.io/pypi/pyversions/razor-proxy.svg)](https://pypi.org/project/razor-proxy)
 
-`Razory Proxy` High Performance Proxy Server<br/>
+`Razory Proxy` High Performance Proxy Server (Open Source)<br/>
 
 ## Features:
 - Easy for used `run proxy server with one command and one click`
