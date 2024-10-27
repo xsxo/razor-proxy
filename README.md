@@ -19,7 +19,7 @@
 pip install razor-proxy
 ```
 
-- Step 3: Run razor-proxy
+- Step 3: Run razor-proxy<br/>
 without authorization (recommended to use authorization)
 
 ```bash
